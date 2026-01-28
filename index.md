@@ -1,7 +1,6 @@
----
-title: Welcome to my blog!
+# Welcome to my blog!
 
-[x] turned on Pages
-[x] modified index.md
-[ ] do fancy stuff
----
+## stuff to do:
+- [ ] turned on Pages
+- [ ] modified index.md
+- [ ] do more fancy stuff
